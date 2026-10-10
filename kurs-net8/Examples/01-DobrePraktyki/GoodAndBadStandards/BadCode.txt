@@ -1,0 +1,12 @@
+1. Złe formatowanie: wcięcia
+2. Nazwy stosują różne konwencje
+3. Ogólna nazwy pola _value nie określa jego przeznaczenia 
+4. Metoda GetDataValue()nie sprawdza, czy sekundy = 0
+5. Zakomentowany nieużywany kod
+6. Brak komentarzy klasa Product
+7. Nieużywane parametry w metodzie AddDates()
+8. Pomieszane nazewnictwo, nazewnictwo klasy i metod nie określające ich przeznadzenia: MyClass, MyMethod()
+9. Wiele klas w jednym pliku
+10. Klasy o różnych odpowiedzialnościach w tym samym namespace: MyProject.TextFileMonitor
+11. Klasa DateTime() ma nazwę klasy ze standrdowej bibioteki.
+
